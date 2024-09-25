@@ -9,7 +9,7 @@
 <p align="center">Welcome to my little corner of this git universe. I hope you find whatever it was you were looking for. Either way I'm just happy you stopped by.</p>
 <div align="center">
   
-|  ![Reddit](img/reddit.png) | [Reddit: brentter](https://reddit.com/u/brentter) | ![Twitter/x](img/twitter.png) | [Twitter/X: Brentter](https://x.com/brentter) |
+|  ![Follow.is](img/followapp.png) | [Follow.is: Brentter](https://app.follow.is/profile/@Brentter) | ![Twitter/x](img/twitter.png) | [Twitter/X: Brentter](https://x.com/brentter) |
 |----|----|----|----|
 | ![Steam](img/steam.png) | [Steam: Brentter](https://steamcommunity.com/id/brentter) | ![Spotify](img/spotify.png) | [Spotify: Brentter](http://open.spotify.com/user/brentter) |
 | ![Ko-Fi](img/kofi.png) | [Ko-fi: Brentter](https://ko-fi.com/brentter) | ![Mastodon](img/mastodon.png) | [Mastodon: defcon.social@brentdev](https://defcon.social/@brentdev) |
