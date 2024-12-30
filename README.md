@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm Brent</h1>
-<p align="center"><a href="https://brentter.com">Everything's Better With Brentter</a></p>
+<p align="center"><a href="https://brentter.com/">Everything's Better With Brentter</a></p>
   
 <p align="center">Welcome to my little corner of this git universe. I hope you find whatever it was you were looking for. Either way I'm just happy you stopped by.</p>
 <div align="center">
@@ -13,7 +13,7 @@
 |----|----|----|----|
 | ![Steam](img/steam.png) | [Steam: Brentter](https://steamcommunity.com/id/brentter) | ![Spotify](img/spotify.png) | [Spotify: Brentter](http://open.spotify.com/user/brentter) |
 | ![Ko-Fi](img/kofi.png) | [Ko-fi: Brentter](https://ko-fi.com/brentter) | ![Mastodon](img/mastodon.png) | [Mastodon: defcon.social@brentdev](https://defcon.social/@brentdev) |
-|  ![Blog](img/blog.png) | [Blog: Brentter.com](https://brentter.com) |  ![RSS](img/rss.png) | [RSS Feed](https://brentter.com/index.xml) |
+|  ![Blog](img/blog.png) | [Blog: Brentter.com](https://brentter.com/) |  ![RSS](img/rss.png) | [RSS Feed](https://brentter.com/index.xml) |
 
 
   ![Static Badge](https://img.shields.io/badge/Seattle-KRAKEN-verydarkgreen?style=plastic&logo=nhl&logoSize=Auto&label=Seattle&color=%23097969)    ![Static Badge](https://img.shields.io/badge/DEBIAN-Powered-blue?style=plastic&logo=debian&logoColor=%23E60505&logoSize=auto&labelColor=%23C1E1C1&color=%23FFC8A2)  
